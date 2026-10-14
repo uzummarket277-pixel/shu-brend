@@ -1,0 +1,8 @@
+{
+  "name": "Remix SHU BREND — Erkaklar Kiyimlari Internet Do\u0027koni",
+  "description": "SHU BREND erkaklar kiyimlari, oyoq kiyimlari va aksessuarlari rasmiy internet-do\u0027koni. Zamonaviy kiyimlar, outfit builder, tezkor yetkazib berish va Telegram integratsiyasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
